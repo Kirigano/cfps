@@ -1,6 +1,6 @@
-# cfps (Christain Family Primary School
+# cfps (Christain Family Primary School)
 
-# Registration table in the database to have the following columns
+Registration table in the database to have the following columns
 1. firstName
 2. middleName
 3. surName
